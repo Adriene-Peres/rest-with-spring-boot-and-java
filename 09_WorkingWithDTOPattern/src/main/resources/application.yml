@@ -15,5 +15,5 @@ spring:
     open-in-view: false
 logging:
   level:
-    root: WARN
-  # com.github.Adriene_Peres: DEBUG
+    # root: WARN
+    com.github.Adriene_Peres: DEBUG
